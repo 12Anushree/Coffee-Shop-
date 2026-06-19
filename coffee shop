@@ -1,0 +1,100 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D2691E,50:8B4513,100:A0522D&height=200&section=header&text=☕%20Coffee%20Shop%20Sales%20Dashboard&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Power%20BI%20%7C%20Retail%20Analytics%20%7C%20Cafe%20Operations&descAlignY=60&descSize=18" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=D2691E&center=true&vCenter=true&width=850&lines=Brewing+Insights+from+Coffee+Sales+Data;Analyzing+Cafe+Performance+%26+Trends;From+Beans+to+Business+Intelligence" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Domain-Food_%26_Beverage-D2691E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data-SQL%20%7C%20CSV-%236B4423?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Published-success?style=for-the-badge" />
+
+</div>
+
+---
+
+# ☕ Coffee Shop Sales Analytics Dashboard
+
+## 📌 Project Description
+
+This project analyzes **coffee shop sales data** to understand daily operations, customer preferences, revenue patterns, and product performance in a busy café environment.
+
+The dashboard tracks **orders, transaction values, popular items, hourly rush periods, payment methods, and profit margins** using interactive visuals built in **Power BI / Tableau / Python**.
+
+> **Perfect for:** Café owners, restaurant managers, retail analysts studying F&B (Food & Beverage) sector.
+
+---
+
+## 🖼️ Dashboard Preview
+
+<div align="center">
+
+### Main View — Executive Summary
+| KPI Cards | Sales Trend | Product Performance |
+|-----------|-------------|---------------------|
+| ☕ Total Orders | 📈 Daily Revenue Curve | 🔥 Top 5 Bestsellers |
+| 💰 Total Revenue | 📊 Month-over-Month | ⏰ Peak Hours Analysis |
+| 🧾 Average Order Value | 🎯 Target vs Actual | 💳 Payment Method Split |
+
+*Coffee Shop Dashboard →*
+<br/>
+## 1.
+<img width="512" height="478" alt="Dashboard" src="https://github.com/user-attachments/assets/d020a0f0-0b13-44ac-91aa-fb3cfa83d9c6" />
+
+## 2.
+<img width="516" height="550" alt="Dashboard 1" src="https://github.com/user-attachments/assets/4ee1181a-3a63-44da-a3d4-93a0a409ef8f" />
+
+## 3.
+<img width="760" height="506" alt="Dashboard 2" src="https://github.com/user-attachments/assets/e3f6c88f-2aa7-44ba-ba9c-a26462c95861" />
+
+## 4.
+<img width="762" height="503" alt="Dashboard 4" src="https://github.com/user-attachments/assets/c083c0b1-429c-4bc6-9667-9807748f6a55" />
+
+## 5.
+<img width="634" height="449" alt="Capture" src="https://github.com/user-attachments/assets/4e082e2a-7f68-4973-89bc-379e79920cbb" />
+
+
+
+</div>
+
+---
+
+## 🎯 Key Business Questions Answered
+
+| Question | Visual Solution |
+|----------|----------------|
+| Which drink sells the most? | Bar chart by product category |
+| What are peak hours? | Heatmap or line chart (Hour vs Day) |
+| Which location/branch performs best? | Map or comparative cards |
+| Do members spend more than walk-ins? | Grouped bar or donut comparison |
+| How does weather affect sales? | Scatter plot with trend line |
+| What's our average basket size? | KPI card + breakdown |
+
+---
+
+## 📊 Core Metrics Tracked
+
+<div align="center">
+
+| Metric | Description |
+|--------|-------------|
+| **☕ Total Transactions** | Number of orders/bills generated |
+| **💵 Gross Revenue** | Total sales before tax/discounts |
+| **🥐 Avg Basket Size** | Items per order / Revenue per customer |
+| **⭐ Customer Rating** | Average review score (1-5 stars) |
+| **🔄 Repeat Rate** | % of returning customers |
+| **🕒 Service Time** | Average minutes per transaction |
+| **📦 Inventory Turnover** | Stock movement analysis |
+| **📍 Branch Comparison** | Multi-location performance |
+
+</div>
+👩‍💻 Created By
+Anushree Saha
+
+<a href="https://www.linkedin.com/in/anushree-saha-4bb3a4368"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<div align="center">
+⭐ If you like this project, consider giving it a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A0522D,50:D2691E,100:F5DEB3&height=120&section=footer" /></div> ```
